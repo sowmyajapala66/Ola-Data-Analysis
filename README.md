@@ -1,4 +1,4 @@
- Ola Rides Analysis (End-to-End SQL & Power BI Project)
+ # Ola Rides Analysis (End-to-End SQL & Power BI Project)
 
 This project provides a complete end-to-end analysis of 103,000 Ola ride bookings using SQL for data querying and Power BI for interactive dashboard development.
 The goal is to uncover patterns in bookings, cancellations, customer behavior, driver performance, vehicle usage, and revenue trends.
@@ -7,11 +7,11 @@ The goal is to uncover patterns in bookings, cancellations, customer behavior, d
  
 Here is a snapshot of one of the  reports:
 
-![key report](overall.png)
+![key report](images/overall.png)
 
-Dashboard Previews:
+**Dashboard Previews:**
 
-1️. Overall Dashboard
+**1️. Overall Dashboard**
 Key Insights:
 
 -57M total booking value
@@ -27,7 +27,7 @@ Key Insights:
     17.89% driver cancellations
     0.19% customer cancellations
     
-2.Vehicle Type Analysis
+**2.Vehicle Type Analysis**
 Insights:
 
 -Highest revenue: Prime Sedan (8.30M)
@@ -40,7 +40,7 @@ Insights:
 
 -Premium vehicles show consistent success booking values (≈5M)
 
-3.Revenue Analysis
+**3.Revenue Analysis**
 Insights:
 
 -Cash is the most preferred payment method (≈20M booking value)
@@ -51,10 +51,10 @@ Insights:
 
 -Daily ride distance fluctuates between 45K–51K km
 
-4.Cancellation Analysis
+**4.Cancellation Analysis**
 Insights:
 
-Customer Cancellations-
+**Customer Cancellations-**
 Top reasons:
 
 -Driver not moving towards pickup
@@ -65,7 +65,7 @@ Top reasons:
 
 -AC not working (4-wheelers)
 
-Driver Cancellations:
+**Driver Cancellations:**
 Top reasons:
 
 -Personal & car-related issues
@@ -76,8 +76,9 @@ Top reasons:
 
 -Too many passengers
 
-5.Ratings Analysis:
-Driver Ratings:
+**5.Ratings Analysis:**
+
+**Driver Ratings:**
 
 -Highest: Prime SUV – 4.01
 
@@ -85,15 +86,15 @@ Driver Ratings:
 
 -Overall consistent range: 3.98 – 4.01
 
--Customer Ratings
+**Customer Ratings**
 
 -Consistently high (4.00–4.01)
 
 -Bikes and E-Bikes slightly lower: 3.99
 
-Business Questions Answered:
+### Business Questions Answered:
 
-SQL:-
+**SQL:**-
 
 What percentage of rides are successful vs cancelled?
 
@@ -105,7 +106,7 @@ Which payment method brings the highest revenue?
 
 What are the top cancellation reasons?
 
-Power BI:-
+**Power BI:-**
 
 Which vehicle category generates the most revenue?
 
@@ -117,7 +118,7 @@ How many rides get cancelled and why?
 
 Which areas or times show highest demand?
 
-Key Findings:-
+### Key Findings:-
 
 --Majority bookings are successful (62%)
 
