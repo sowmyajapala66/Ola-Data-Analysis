@@ -11,7 +11,7 @@ Here is a snapshot of one of the  reports:
 
 **Dashboard Previews:**
 
-**1️. Overall Dashboard**
+**1️. Overall Dashboard-**
 Key Insights:
 
 -57M total booking value
@@ -27,7 +27,7 @@ Key Insights:
     17.89% driver cancellations
     0.19% customer cancellations
     
-**2.Vehicle Type Analysis**
+**2.Vehicle Type Analysis-**
 Insights:
 
 -Highest revenue: Prime Sedan (8.30M)
@@ -40,7 +40,7 @@ Insights:
 
 -Premium vehicles show consistent success booking values (≈5M)
 
-**3.Revenue Analysis**
+**3.Revenue Analysis-**
 Insights:
 
 -Cash is the most preferred payment method (≈20M booking value)
@@ -51,10 +51,10 @@ Insights:
 
 -Daily ride distance fluctuates between 45K–51K km
 
-**4.Cancellation Analysis**
+**4.Cancellation Analysis-**
 Insights:
 
-**Customer Cancellations-**
+**Customer Cancellations:**
 Top reasons:
 
 -Driver not moving towards pickup
