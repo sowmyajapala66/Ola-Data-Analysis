@@ -5,7 +5,7 @@ The goal is to uncover patterns in bookings, cancellations, customer behavior, d
  Key Report:
 Here is a snapshot of one of the main reports:
 
-![Main Report](images/main_report.png)
+![key report](overall.png)
 Dashboard Previews:
 1️. Overall Dashboard
 Key Insights:
@@ -17,6 +17,7 @@ Key Insights:
     62.09% successful
     17.89% driver cancellations
     0.19% customer cancellations
+    
 2.Vehicle Type Analysis
 Insights:
 -Highest revenue: Prime Sedan (8.30M)
@@ -24,12 +25,14 @@ Insights:
 -E-Bike shows exceptional total distance: 465.4K km
 -Auto rides have much lower avg distance (6.24 km)
 -Premium vehicles show consistent success booking values (≈5M)
+
 3.Revenue Analysis
 Insights:
 -Cash is the most preferred payment method (≈20M booking value)
 -UPI ranks second
 -Credit/Debit card usage is low
 -Daily ride distance fluctuates between 45K–51K km
+
 4.Cancellation Analysis
 Insights:
 Customer Cancellations
@@ -44,7 +47,8 @@ Top reasons:
 -Customer refused to pay
 -Customer not reachable
 -Too many passengers
-Ratings Analysis:
+
+5.Ratings Analysis:
 Driver Ratings:
 -Highest: Prime SUV – 4.01
 -Lowest: Bike – 3.98
@@ -54,8 +58,11 @@ Driver Ratings:
 -Bikes and E-Bikes slightly lower: 3.99
 
 Business Questions Answered:
+
 SQL:-
+
 What percentage of rides are successful vs cancelled?
+
 Which customers book the most rides?
 What vehicle type travels the longest distances?
 Which payment method brings the highest revenue?
